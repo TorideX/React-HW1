@@ -1,0 +1,47 @@
+[
+  {
+    "UserLogin": "messi10",
+    "isBought": false,
+    "ticket": {
+      "Type": "Airplane",
+      "FromCountry": "Azerbaycan",
+      "FromCity": "Baku",
+      "ToCountry": "Azerbaycan",
+      "ToCity": "Quba",
+      "LeftTime": "2020-03-13T13:30:00",
+      "ArriveTime": "2020-03-13T13:35:00",
+      "Status": "Normal",
+      "Price": 15
+    }
+  },
+  {
+    "UserLogin": "ibrahim",
+    "isBought": false,
+    "ticket": {
+      "Type": "Airplane",
+      "FromCountry": "Azerbaycan",
+      "FromCity": "Baku",
+      "ToCountry": "Azerbaycan",
+      "ToCity": "Quba",
+      "LeftTime": "2020-03-13T13:30:00",
+      "ArriveTime": "2020-03-13T13:35:00",
+      "Status": "Normal",
+      "Price": 15
+    }
+  },
+  {
+    "UserLogin": "ibrahim",
+    "isBought": false,
+    "ticket": {
+      "Type": "Bus",
+      "FromCountry": "Azerbaycan",
+      "FromCity": "Lenkeran",
+      "ToCountry": "Ukraine",
+      "ToCity": "Lviv",
+      "LeftTime": "2020-10-02T12:00:00",
+      "ArriveTime": "2020-10-03T16:30:00",
+      "Status": "Business",
+      "Price": 230
+    }
+  }
+]

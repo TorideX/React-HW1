@@ -1,0 +1,12 @@
+C:\Users\ibrah\source\repos\Tickets System\Tickets System\bin\Debug\Tickets System.exe.config
+C:\Users\ibrah\source\repos\Tickets System\Tickets System\bin\Debug\Tickets System.exe
+C:\Users\ibrah\source\repos\Tickets System\Tickets System\bin\Debug\Tickets System.pdb
+C:\Users\ibrah\source\repos\Tickets System\Tickets System\obj\Debug\Tickets System.csprojAssemblyReference.cache
+C:\Users\ibrah\source\repos\Tickets System\Tickets System\obj\Debug\Tickets System.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\Tickets System\Tickets System\obj\Debug\Tickets System.exe
+C:\Users\ibrah\source\repos\Tickets System\Tickets System\obj\Debug\Tickets System.pdb
+C:\Users\ibrah\source\repos\Tickets System\Tickets System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ibrah\source\repos\Tickets System\Tickets System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ibrah\source\repos\Tickets System\Tickets System\obj\Debug\Tickets System.csproj.CopyComplete
+C:\Users\ibrah\source\repos\Tickets System\Tickets System\bin\Debug\System.ValueTuple.dll
+C:\Users\ibrah\source\repos\Tickets System\Tickets System\bin\Debug\System.ValueTuple.xml

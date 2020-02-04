@@ -1,0 +1,90 @@
+[
+  {
+    "Type": "Airplane",
+    "FromCountry": "Azerbaycan",
+    "FromCity": "Baku",
+    "ToCountry": "Azerbaycan",
+    "ToCity": "Quba",
+    "LeftTime": "2020-03-13T13:30:00",
+    "ArriveTime": "2020-03-13T13:35:00",
+    "Status": "Normal",
+    "Price": 15
+  },
+  {
+    "Type": "Bus",
+    "FromCountry": "Azerbaycan",
+    "FromCity": "Lenkeran",
+    "ToCountry": "Ukraine",
+    "ToCity": "Lviv",
+    "LeftTime": "2020-10-02T12:00:00",
+    "ArriveTime": "2020-10-03T16:30:00",
+    "Status": "Business",
+    "Price": 230
+  },
+  {
+    "Type": "Airplane",
+    "FromCountry": "Azerbaycan",
+    "FromCity": "Sumqayit",
+    "ToCountry": "Azerbaycan",
+    "ToCity": "Lenkeran",
+    "LeftTime": "2019-10-05T03:35:00",
+    "ArriveTime": "2019-10-05T03:36:00",
+    "Status": "Business",
+    "Price": 700
+  },
+  {
+    "Type": "Airplane",
+    "FromCountry": "Azerbaycan",
+    "FromCity": "Sumqayit",
+    "ToCountry": "Azerbaycan",
+    "ToCity": "Quba",
+    "LeftTime": "2020-01-05T01:50:00",
+    "ArriveTime": "2020-01-05T05:20:00",
+    "Status": "Business",
+    "Price": 5
+  },
+  {
+    "Type": "Train",
+    "FromCountry": "Turkey",
+    "FromCity": "Izmir",
+    "ToCountry": "Turkey",
+    "ToCity": "Adana",
+    "LeftTime": "2020-01-02T01:37:00",
+    "ArriveTime": "2020-01-03T01:00:00",
+    "Status": "Normal",
+    "Price": 20
+  },
+  {
+    "Type": "Bus",
+    "FromCountry": "Ukraine",
+    "FromCity": "Kiev",
+    "ToCountry": "Ukraine",
+    "ToCity": "Lviv",
+    "LeftTime": "2020-05-02T04:30:00",
+    "ArriveTime": "2020-05-02T04:50:00",
+    "Status": "Business",
+    "Price": 12
+  },
+  {
+    "Type": "Bus",
+    "FromCountry": "Turkey",
+    "FromCity": "Adana",
+    "ToCountry": "Turkey",
+    "ToCity": "Antalya",
+    "LeftTime": "2020-01-01T05:20:00",
+    "ArriveTime": "2020-01-01T08:46:00",
+    "Status": "Normal",
+    "Price": 50
+  },
+  {
+    "Type": "Bus",
+    "FromCountry": "Azerbaycan",
+    "FromCity": "Gence",
+    "ToCountry": "Azerbaycan",
+    "ToCity": "Gedebey",
+    "LeftTime": "2020-07-17T02:30:00",
+    "ArriveTime": "2020-07-17T02:40:00",
+    "Status": "Business",
+    "Price": 5
+  }
+]

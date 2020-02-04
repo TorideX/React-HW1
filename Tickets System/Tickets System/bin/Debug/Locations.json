@@ -1,0 +1,37 @@
+[
+  {
+    "Cities": [
+      "Baku",
+      "Qebele",
+      "Sumqayit",
+      "Quba",
+      "Gedebey",
+      "Gence",
+      "Lenkeran"
+    ],
+    "Country": "Azerbaycan"
+  },
+  {
+    "Cities": [
+      "Istanbul",
+      "Ankara",
+      "Izmir",
+      "Adana",
+      "Antalya",
+      "Bursa",
+      "Edirne"
+    ],
+    "Country": "Turkey"
+  },
+  {
+    "Cities": [
+      "Kiev",
+      "Lviv",
+      "Odessa",
+      "Donesk",
+      "Vinnytsia",
+      "Ternopil"
+    ],
+    "Country": "Ukraine"
+  }
+]
