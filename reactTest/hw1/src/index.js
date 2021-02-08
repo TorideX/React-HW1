@@ -4,10 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { CustomDraggableTable } from './Components/DragComponents/CustomDraggableTable';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    <CustomDraggableTable/>
+    {/* <h1>Salam</h1> */}
   </React.StrictMode>,
   document.getElementById('root')
 );

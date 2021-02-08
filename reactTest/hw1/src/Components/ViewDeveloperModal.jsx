@@ -16,18 +16,13 @@ export const ViewDeveloperModal = ({ developer, isModalOpen, toggleModal }) => {
   const [firstName, setFirstName] = useState()
   const [lastName, setLastName] = useState()
   const [age, setAge] = useState()
+  
   useEffect(()=>{
       console.log(developer)
-      try{
-          setFirstName(developer.firstName)
-          setLastName(developer.lastName)
-          setAge(developer.age)
-      } catch {
-          setFirstName('')
-          setLastName('')
-          setAge('')
-      }
-  }, [])
+      setFirstName(developer.firstName)
+      setLastName(developer.lastName)
+      setAge(developer.age)
+  }, [developer])
 
   return (
     <div>
@@ -41,8 +36,8 @@ export const ViewDeveloperModal = ({ developer, isModalOpen, toggleModal }) => {
                 id="firstName"
                 name="firstName"
                 placeholder="First Name"
-                value={firstName}
-                
+                value={firstName}       
+                disabled={true}         
               />
             </FormGroup>
             <FormGroup className="mb-4">
@@ -52,6 +47,7 @@ export const ViewDeveloperModal = ({ developer, isModalOpen, toggleModal }) => {
                 name="lastName"
                 placeholder="Last Name"
                 value={lastName}
+                disabled={true}
               />
             </FormGroup>
             <FormGroup>
@@ -62,7 +58,7 @@ export const ViewDeveloperModal = ({ developer, isModalOpen, toggleModal }) => {
                 name="age"
                 placeholder="Age"
                 value={age}
-                
+                disabled={true}
               />
             </FormGroup>
           </ModalBody>
